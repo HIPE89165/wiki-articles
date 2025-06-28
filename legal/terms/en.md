@@ -3,7 +3,7 @@ layout: article
 title: Terms of Service
 date: 2024-01-27T09:50:00.000Z
 category: pages
-author: Camellia Server Staff
+author: Camellia Wiki Staff
 description: The document that outlines the terms that govern the use of our services.
 ---
 

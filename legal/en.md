@@ -3,7 +3,7 @@ layout: post
 title: Legal Documents
 date: 2024-02-02 13:00 -0500
 category: pages
-author: Camellia Server Staff
+author: Camellia Wiki Staff
 description: Here are the documents that contain the legal mumbo jumbo.
 include: Terms of Service, Privacy Policy
 ---

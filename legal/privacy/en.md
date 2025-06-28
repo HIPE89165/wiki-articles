@@ -3,14 +3,13 @@ layout: article
 title: Privacy Policy
 date: 2024-01-27T10:50:00.000Z
 category: pages
-author: Theaceae Community
+author: Camellia Wiki Staff
 description: The document that outlines what information we collect, use, and disclose.
 ---
 
 ## Privacy Policy
 
 > The Privacy Policy was last updated on September 15th, 2024.
->
 > TL;DR: We only collect IP Addresses, Discord IDs, timestamps, and comments.
 {: .tip }
 
