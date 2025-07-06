@@ -4,7 +4,6 @@ title: 灰の羽搏
 categories: posts
 author: KatGrrrl
 description: 灰の羽搏 album page
-permalink: camellia/discography/:title
 date: 2024-01-23T02:55:24.737Z
 ---
 

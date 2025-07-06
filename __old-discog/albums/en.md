@@ -6,7 +6,6 @@ category: posts
 author: Various Contributors
 description: Here, you will find various songs Camellia has composed or
   contributed in. If you see anything missing, help us out by adding more pages!
-permalink: camellia/:title
 ---
 
 ## Welcome to Camellia's Discography

@@ -4,7 +4,6 @@ title: "Blackmagik Blazing"
 categories: posts
 author: KatGrrrl
 description: Blackmagik Blazing album page
-permalink: camellia/discography/:title
 ---
 
 ## Overview

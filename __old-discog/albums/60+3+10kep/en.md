@@ -4,7 +4,6 @@ title: "60+3+10kE.P."
 categories: posts
 author: KatGrrrl
 description: 60+3+10kE.P. album page
-permalink: camellia/discography/:title
 ---
 
 ## Overview

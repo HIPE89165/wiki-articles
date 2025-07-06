@@ -2,11 +2,11 @@
 layout: article
 title: Camellia Monthly
 date: 2023-11-14 23:55 -0600
-category: posts
-author: Camellia Server Staff
 description: The monthly newsletter for the Camellia Discord Server, featuring news, releases, and events.
-permalink: camellia-server/:title
 ---
+
+> For Contributors: Missing more than a year of posts.
+{: .caution }
 
 ## February 2024
 
@@ -15,6 +15,7 @@ Hey, we’re early this time. Looks like Camellia's been all over the place thes
 ![February 2024 Monthly Logo](https://cdn.camellia.wiki/images/camellia/server/monthly/2024-february.png)
 
 ### 📰 Camellia News:
+
 **YouTube Channel Music Upgrade**: Camellia’s channel has received a musical note; prior soundtracks released under “Camellia - Topic” can now be found in select albums [underneath his channel’s “Releases” section](https://www.youtube.com/@Cametek.CamelliaOfficial/featured). All of your favorite songs, all in one place!
 
 **Camellia Joins Geometry Dash**: A total of 180+ songs by Camellia were added to Geometry Dash! Enjoy creating and playing through brand-new maps based on your favorite Camellia hits, now available in the music library.
@@ -85,7 +86,7 @@ Happy New Year everyone! Camellia has managed to up the BPM once more and kick 2
 
 **Return of Suggestion Forums:** Missed the suggestion forums? Did we not see your suggestion? Not to worry! Now, with the [⁠#💡suggestion-forums](https://discord.com/channels/435720333786480641/1046122599064817765) back, no suggestions will be missed!
 
-**AI "Art" Restrictions:** AI-generated artwork will no longer be allowed in art channels. Why? We feel that it brings a level of "cheating" when artists spend years refining their art, whereas AI can do it in just seconds, primarily by using said artists' work for reference without authorization. While AI artwork is not allowed in the art channels, the rest of the server should not be affected. Still, we strongly discourage the use of AI content. 
+**AI "Art" Restrictions:** AI-generated artwork will no longer be allowed in art channels. Why? We feel that it brings a level of "cheating" when artists spend years refining their art, whereas AI can do it in just seconds, primarily by using said artists' work for reference without authorization. While AI artwork is not allowed in the art channels, the rest of the server should not be affected. Still, we strongly discourage the use of AI content.
 
 ## December 2023
 
@@ -113,17 +114,17 @@ Even more recently, Camellia revealed [his appearance](https://twitter.com/espor
 
 [Snacko Remixes](https://www.youtube.com/playlist?list=PLaN19gIKi5ZpnWIoRPZiSIXyHNoAt498d): In an unexpected twist, Camellia has taken the time and harvested seven new remixes for the [Snacko OST](https://dalenorth.bandcamp.com/album/snacko-original-game-soundtrack) by Dale North. The game is still being worked on, but in the meantime, support [Snacko](https://store.steampowered.com/app/1125510/Snacko/) in its preparation for a fresh, early release!
 
-[Antineutrino Witchcraft](<https://www.youtube.com/watch?v=BQS57GsE7UQ>): What's an osu! tournament without a custom-made Camellia song at the end? In a collaborative effort with the EGCS team & Transendium, Camellia officially revealed this brutal, raw finale of a song for the [EGCS 2023](<https://gtsosu.com/2023/egcs/home>) Grand Finals Tiebreaker! For all osu!catch players, prepare with however many fingers you need to use because no mercy was shown in the [song’s map](<https://osu.ppy.sh/beatmapsets/2101746#fruits/4409194>)...
+[Antineutrino Witchcraft](https://www.youtube.com/watch?v=BQS57GsE7UQ): What's an osu! tournament without a custom-made Camellia song at the end? In a collaborative effort with the EGCS team & Transendium, Camellia officially revealed this brutal, raw finale of a song for the [EGCS 2023](https://gtsosu.com/2023/egcs/home) Grand Finals Tiebreaker! For all osu!catch players, prepare with however many fingers you need to use because no mercy was shown in the [song’s map](https://osu.ppy.sh/beatmapsets/2101746#fruits/4409194)...
 
 [Sugoi Invincible](https://youtu.be/xlDk5c1z1yA): In collaboration with Panno Mimimi, Camellia pushes through the month by producing a chaotic-yet-catchy song! You can view Panno-San's YouTube channel [here](https://www.youtube.com/@PannoMimimi).
 
 ### In Other News
 
-- [かめりあ feat. STΔRLIVHT - LIVHT MY W​Δ​Y](https://www.youtube.com/watch?v=N-C_VI-gBp8) is now in Arcaea! [Twitter Post](<https://vxtwitter.com/arcaea_jp/status/1735087462848876889>).
-- [かめりあ - ΩΩPARTS](https://youtu.be/lc4nTM6M9KY) is now in CHUNITHM! - [Twitter Post](<https://vxtwitter.com/chunithm/status/1735155593458180284>).
+- [かめりあ feat. STΔRLIVHT - LIVHT MY W​Δ​Y](https://www.youtube.com/watch?v=N-C_VI-gBp8) is now in Arcaea! [Twitter Post](https://vxtwitter.com/arcaea_jp/status/1735087462848876889).
+- [かめりあ - ΩΩPARTS](https://youtu.be/lc4nTM6M9KY) is now in CHUNITHM! - [Twitter Post](https://vxtwitter.com/chunithm/status/1735155593458180284).
 - [Beat Saber OST 6](https://distrokid.com/hyperfollow/beatsaber/beat-saber-original-game-soundtrack-volvi-2) is now available on streaming platforms, including Camellia's new song, [TEMPO KATANA](https://youtu.be/baxUutvrj2g)!
-- [Play With Fire / HIASOBI](https://youtu.be/od4QcDPpNVk) is now in Project Sekai! - [Twitter Post](<https://vxtwitter.com/pj_sekai/status/1739611159588917476>).
-- [Sage](https://youtu.be/rgM5VGYToQQ) from Maimai has also been added in Project Sekai! - [Twitter Post](<https://vxtwitter.com/pj_sekai/status/1739613914567254382>).
+- [Play With Fire / HIASOBI](https://youtu.be/od4QcDPpNVk) is now in Project Sekai! - [Twitter Post](https://vxtwitter.com/pj_sekai/status/1739611159588917476).
+- [Sage](https://youtu.be/rgM5VGYToQQ) from Maimai has also been added in Project Sekai! - [Twitter Post](https://vxtwitter.com/pj_sekai/status/1739613914567254382).
 
 ### Server Stuff
 
@@ -140,7 +141,7 @@ The past month or two have seen a few significant changes in the staff team, inc
 1. Enforcing the new Staff Guidelines
 1. Removing <mark>@Challenges Judge</mark>, <mark>@Minecraft Helper</mark> and, <mark>@Event Organizer</mark> in favor of <mark>@Community Contributor</mark> (this update is still not immediate because we have <mark>@Toxism</mark> still relying on <mark>@Challenges Judge</mark> for now).
 1. Implementing [Ko-fi community funding](https://ko-fi.com/camelliacommunity).
-1. <mark>@papertek</mark> "Pinging everyone is nono, only for Camellia Monthly" Pinging everyone is nono, only for Camellia monthly & genuinely Crucial situations/problems that affect the server*
+1. <mark>@papertek</mark> "Pinging everyone is nono, only for Camellia Monthly" Pinging everyone is nono, only for Camellia monthly & genuinely Crucial situations/problems that affect the server\*
 
 And more to come. :)
 
@@ -172,19 +173,19 @@ Thank you to everyone for helping him reach this impressive milestone. Make sure
 
 With another Hololive Collab, Camellia's brought us "まんなかちてん" by Luna Himemori! [Check it out here](https://youtu.be/M0Oud1_4sl0).
 
-Camellia has also produced another song named "「Trick star」" by るなっち☆ほし. Be sure to [check it out too](https://youtu.be/1DngUauUYjg)!
+Camellia has also produced another song named "「Trick star」" by るなっち ☆ ほし. Be sure to [check it out too](https://youtu.be/1DngUauUYjg)!
 
 ### New Staff Members
 
-Some of you might notice that three new admins have joined us - <mark>@azunyan0007, @ungrave, and @nicocchi_,</mark> have come over from the Nanahira community to offer help! Feel free to welcome them if you see them interacting in general chat. With them helping out, our admin team now forms a cool heptagon (probably a more relaxed shape than a square?). We’re grateful they’ll be volunteering their time to help all of us out, and we look forward to working with them!
+Some of you might notice that three new admins have joined us - <mark>@azunyan0007, @ungrave, and @nicocchi\_,</mark> have come over from the Nanahira community to offer help! Feel free to welcome them if you see them interacting in general chat. With them helping out, our admin team now forms a cool heptagon (probably a more relaxed shape than a square?). We’re grateful they’ll be volunteering their time to help all of us out, and we look forward to working with them!
 
 ### Staff and Rules Updates
 
-We have cut down *many* rules and combined some to make things more sane for new and existing members (from 17 down to 7!). We also added some clarification on current disclaimers as well as old ones. Please give them a read: [#🧾rules-and-info](https://discord.com/channels/435720333786480641/1121280346638524456). In parallel, we have also updated the Staff Guidelines again, adding an entirely [new section](https://discord.com/channels/435720333786480641/1088625892105924648/1164858060578230326) to it. An autobiography/transparency document was also [uploaded by papertek](https://discord.com/channels/435720333786480641/1088625892105924648/1167233462927904858), documenting his time in the community. Lastly, server moderation systems have switched off from Dyno to Wick. The full announcement is [here](https://discord.com/channels/435720333786480641/1088625892105924648/1169401636754563145). With these changes and updates, we hope you enjoy your time in the server even more~
+We have cut down _many_ rules and combined some to make things more sane for new and existing members (from 17 down to 7!). We also added some clarification on current disclaimers as well as old ones. Please give them a read: [#🧾rules-and-info](https://discord.com/channels/435720333786480641/1121280346638524456). In parallel, we have also updated the Staff Guidelines again, adding an entirely [new section](https://discord.com/channels/435720333786480641/1088625892105924648/1164858060578230326) to it. An autobiography/transparency document was also [uploaded by papertek](https://discord.com/channels/435720333786480641/1088625892105924648/1167233462927904858), documenting his time in the community. Lastly, server moderation systems have switched off from Dyno to Wick. The full announcement is [here](https://discord.com/channels/435720333786480641/1088625892105924648/1169401636754563145). With these changes and updates, we hope you enjoy your time in the server even more~
 
 ### Chinese Thread
 
-After some pestering from server members, we’ve created the new [Chinese thread](https://discord.com/channels/435720333786480641/1168752239561678868/1168752239561678868). Camellia的行政人员都想让我写一个好笑的信息，因此我现在想说他们都是有特别毛病的人-
+After some pestering from server members, we’ve created the new [Chinese thread](https://discord.com/channels/435720333786480641/1168752239561678868/1168752239561678868). Camellia 的行政人员都想让我写一个好笑的信息，因此我现在想说他们都是有特别毛病的人-
 
 ### Aesthetic Changes
 

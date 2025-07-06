@@ -4,7 +4,6 @@ title: "Camellia \"Guest Tracks\" Summary & VIPs 01"
 categories: posts
 author: KatGrrrl
 description: Camellia "Guest Tracks" Summary & VIPs 01 album page
-permalink: camellia/discography/:title
 ---
 
 ## Overview
