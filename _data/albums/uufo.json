@@ -1,0 +1,86 @@
+{
+    "title": "U.U.F.O.",
+    "title_romanized": "U.U.F.O.",
+    "covers": [
+        {
+            "name": "CTCD-021-022",
+            "url": "https://cdn.camellia.wiki/images/camellia/albums/CTCD-021-022.jpg"
+        }
+    ],
+    "release": {
+        "year": 2021,
+        "month": 7,
+        "day": 11
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "mystery-circles-ultra",
+                "the-red-room",
+                "labyrinth-in-kowloon",
+                "electromagnetic-stealth-girl",
+                "zhuzhzhalka76",
+                "killertoy",
+                "polybius-gb-speedrun",
+                "extraterretterrestrial-jungle-dance-party",
+                "final-blenderman-appeared",
+                "wysi",
+                "we-magicians-still-alive-in-2021",
+                "ooparts",
+                "hello-bpm-2021"
+            ]
+        },
+        {
+            "name": "Disc 2",
+            "tracks": [
+                "area-52",
+                "kisaragi",
+                "bermuda-triangle",
+                "cicada3302",
+                "slime-incident",
+                "microwave-proof-cat",
+                "zombie-circus",
+                "tanasinn",
+                "purge-my-existence-out-of-this-world",
+                "ghoul",
+                "myths-you-forgot",
+                "the-muzzle-facing",
+                "1f1e33-00102g",
+                "looking-for-edge-of-ground"
+            ]
+        }
+    ],
+    "credits": [{
+        "role": "Compose",
+        "name": "かめりあ"
+    }, {
+        "role": "Illustration",
+        "name": "Temmie"
+    }, {
+        "role": "Design",
+        "name": "TOHRU MiTSUHASHi"
+    }, {
+        "role": "Web Production",
+        "name": "Rooq"
+    }, {
+        "role": "Featured (Disc1: Tr.09)",
+        "name": "RichaadEB"
+    }, {
+        "role": "Featured (Disc2: Tr.03)",
+        "name": "The8BitDrummer"
+    }, {
+        "role": "Featured (Disc2: Tr.09)",
+        "name": "BTMC"
+    }, {
+        "role": "Featured (Disc2: Tr.11)",
+        "name": "Toby Fox"
+    }],
+    "links": [{
+        "label": "Website",
+        "url": "https://cametek.jp/uufo/"
+    }, {
+        "label": "Bandcamp",
+        "url": "https://cametek.bandcamp.com/album/u-u-f-o"
+    }]
+}
