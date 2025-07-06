@@ -4,7 +4,7 @@ title: Camellia Monthly
 date: 2023-11-14 23:55 -0600
 category: posts
 author: Camellia Server Staff
-description: Camellia Monthly articles
+description: The monthly newsletter for the Camellia Discord Server, featuring news, releases, and events.
 permalink: camellia-server/:title
 ---
 
