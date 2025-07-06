@@ -1,6 +1,7 @@
 {
     "title": "U.U.F.O.",
     "title_romanized": "U.U.F.O.",
+    "content": "*U.U.F.O.* is a doujin album by [かめりあ](/camellia) (Camellia) released on 2021-07-11 by the circle [かめるかめりあ](#).",
     "covers": [
         {
             "name": "CTCD-021-022",
@@ -51,36 +52,48 @@
             ]
         }
     ],
-    "credits": [{
-        "role": "Compose",
-        "name": "かめりあ"
-    }, {
-        "role": "Illustration",
-        "name": "Temmie"
-    }, {
-        "role": "Design",
-        "name": "TOHRU MiTSUHASHi"
-    }, {
-        "role": "Web Production",
-        "name": "Rooq"
-    }, {
-        "role": "Featured (Disc1: Tr.09)",
-        "name": "RichaadEB"
-    }, {
-        "role": "Featured (Disc2: Tr.03)",
-        "name": "The8BitDrummer"
-    }, {
-        "role": "Featured (Disc2: Tr.09)",
-        "name": "BTMC"
-    }, {
-        "role": "Featured (Disc2: Tr.11)",
-        "name": "Toby Fox"
-    }],
-    "links": [{
-        "label": "Website",
-        "url": "https://cametek.jp/uufo/"
-    }, {
-        "label": "Bandcamp",
-        "url": "https://cametek.bandcamp.com/album/u-u-f-o"
-    }]
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Illustration",
+            "name": "Temmie"
+        },
+        {
+            "role": "Design",
+            "name": "TOHRU MiTSUHASHi"
+        },
+        {
+            "role": "Web Production",
+            "name": "Rooq"
+        },
+        {
+            "role": "Featured (Disc1: Tr.09)",
+            "name": "RichaadEB"
+        },
+        {
+            "role": "Featured (Disc2: Tr.03)",
+            "name": "The8BitDrummer"
+        },
+        {
+            "role": "Featured (Disc2: Tr.09)",
+            "name": "BTMC"
+        },
+        {
+            "role": "Featured (Disc2: Tr.11)",
+            "name": "Toby Fox"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://cametek.jp/uufo/"
+        },
+        {
+            "label": "Bandcamp",
+            "url": "https://cametek.bandcamp.com/album/u-u-f-o"
+        }
+    ]
 }

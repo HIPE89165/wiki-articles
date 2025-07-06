@@ -1,0 +1,33 @@
+{
+    "title": "(The) Red * Room",
+    "title_romanized": "(The) Red * Room",
+    "length": "3:59",
+    "bpm": "136",
+    "content": "> TODO: Add content.\n{: .caution }",
+    "release": {
+        "year": 2021,
+        "month": 7,
+        "day": 11
+    },
+    "covers": [
+        {
+            "name": "CTCD-021-022",
+            "url": "https://cdn.camellia.wiki/images/camellia/albums/CTCD-021-022.jpg"
+        }
+    ],
+    "albums": [
+        "uufo"
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/track/2gFMKAx78BgyGsKgDy2N1Z?si=9e1c94b976b54a09"
+        }
+    ]
+}
