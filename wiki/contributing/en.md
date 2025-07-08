@@ -48,7 +48,8 @@ Afterwards, you may begin your contribution edits.
 
 If you are writing Wiki Articles, we have a fancy [Preview](https://camellia.wiki/preview) system, which allows you to roughly view your changes, even in-time, as it would appear on the site.
 
-Don't forget to **commit and push changes to your fork**. You will NOT be able to edit from the main repos.
+> Don't forget to commit and push changes to your fork. You will NOT be able to edit from the main repos.
+> {: .warning }
 
 ### Getting your contribution(s) published
 
