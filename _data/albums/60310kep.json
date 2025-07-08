@@ -1,0 +1,38 @@
+{
+    "title": "60+3+10k E.P.",
+    "title_romanized": "60+3+10k E.P.",
+    "content": "*60+3+10k E.P.* is an E.P. by [かめりあ](/camellia) (Camellia) released on 2019-02-20. It is a free download EP to commemorate Camellia reaching 60,000 Twitter followers, 3,000 Discord members and 10,000 Youtube subscribers.",
+    "covers": [
+        {
+            "name": "60+3+10k E.P.",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2019,
+        "month": 2,
+        "day": 20
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "kamah-scythe",
+                "we-are-not-curzed",
+                "newspapers-for-magicians"
+            ]
+        },
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Bandcamp",
+            "url": "https://cametek.bandcamp.com/album/60-3-10ke-p"
+        }
+    ]
+}
