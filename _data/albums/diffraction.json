@@ -1,0 +1,56 @@
+{
+    "title": "[diffraction]",
+    "title_romanized": "[diffraction]",
+    "content": "*[diffraction]* is a doujin album by [かめりあ](/camellia) (Camellia) released on 2014-04-27 (M3-33) by the circle [かめるかめりあ](#). It is the second intrumental album by Camellia. On 2019-12-31 the CD was re-released as part of the *Camellia Archives* series of re-releases.",
+    "covers": [
+        {
+            "name": "CTCD-008",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2014,
+        "month": 4,
+        "day": 27
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "blast-your-headz-with-the-railgun",
+                "this-track-is-not-epic",
+                "into-the-lava",
+                "peaceful-invading",
+                "lets-jump",
+                "diffraction",
+                "hello-to-the-your-first-video-game",
+                "reach-the-deepest-one",
+                "phatty-influencers",
+                "rohga",
+                "helixfossil",
+                "dream-transfer",
+                "dev-null"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Design",
+            "name": "Why#"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://cametek.jp/diffraction/"
+        },
+        {
+            "label": "Bandcamp",
+            "url": "https://cametek.bandcamp.com/album/diffraction"
+        }
+    ]
+}
