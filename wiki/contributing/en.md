@@ -1,3 +1,10 @@
+---
+layout: article
+title: Contributing
+date: 2025-07-08T04:04:53.522Z
+description: A how-to on properly contributing to the Camellia Wiki.
+---
+
 If you're reading this, you're likely interested in contributing to the Camellia Wiki - and we're excited to have you!
 
 ## Contribution Guidelines
@@ -10,6 +17,16 @@ If you're reading this, you're likely interested in contributing to the Camellia
 - Please ensure to use [proper markdown](https://www.markdownguide.org/cheat-sheet/) for writing.
 - All trademarks in any content must be correctly typed, including games, media, music, etc. For example: Discord, YouTube, BEMANI, etc.
 - Any media uploaded, including videos and photos, must be one of the following: your own work; freely licensed; within the public domain; or under fair use.
+- All articles must follow the correct format:
+
+```
+---
+layout: article
+title: Your Title Here
+date: ISO 8601 (like 2025-07-08T04:04:53.522Z)
+description: Brief summary of what this article is about.
+---
+```
 
 ### Contributions
 
@@ -29,7 +46,7 @@ To begin your contribution journey, please ensure you have read and understand o
 
 Afterwards, you may begin your contribution edits.
 
-> If you are writing Wiki Articles, we have a fancy [Preview](https://camellia.wiki/preview) system, which allows you to roughly view your changes, even in-time, as it would appear on the site.
+If you are writing Wiki Articles, we have a fancy [Preview](https://camellia.wiki/preview) system, which allows you to roughly view your changes, even in-time, as it would appear on the site.
 
 Don't forget to **commit and push changes to your fork**. You will NOT be able to edit from the main repos.
 
