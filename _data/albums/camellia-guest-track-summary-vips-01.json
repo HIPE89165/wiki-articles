@@ -1,0 +1,65 @@
+{
+    "title": "Camellia 'Guest Tracks' Summary & VIPs 01",
+    "title_romanized": "Camellia 'Guest Tracks' Summary & VIPs 01",
+    "content": "*Camellia 'Guest Tracks' Summary & VIPs 01* is a doujin compilation album by [かめりあ](/camellia) (Camellia) released on 2017-04-30 (M3-39) by the circle [かめるかめりあ](#). It is a compilation of Camellia guest tracks, about half of them are new remixes for this release.",
+    "covers": [
+        {
+            "name": "CTCD-015",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2017,
+        "month": 4,
+        "day": 30
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "summary-scramble",
+                "edm-jumpers-reboot",
+                "kick-the-dance-floor",
+                "hinode-vip",
+                "fly-to-night-tonight",
+                "overkill-vip",
+                "check-this-out",
+                "steelfuck-vip",
+                "eternally",
+                "radius-vip",
+                "wanna-go-to-a-beach-vs-resort-sunset",
+                "algorithm-remix",
+                "flower-of-wilderness",
+                "feelin-sky-remix"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Arrangement",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Lyrics",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Vocals",
+            "name": "ななひら (Tr.02), 初音ミク (Tr.05), kradness (Tr.12)"
+        },
+        {
+            "role": "Design",
+            "name": "Hotomasu Modoru"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://cametek.jp/summary01/"
+        }
+    ]
+}
