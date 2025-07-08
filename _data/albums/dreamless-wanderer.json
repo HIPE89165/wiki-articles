@@ -1,0 +1,51 @@
+{
+    "title": "dreamless wanderer",
+    "title_romanized": "dreamless wanderer",
+    "content": "*dreamless wanderer* is a doujin album by [かめりあ](/camellia) (Camellia) released on 2014-12-30 (Comiket 87) by the circle [かめるかめりあ](#). It is the fourth intrumental album by Camellia.",
+    "covers": [
+        {
+            "name": "CTCD-010",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2014,
+        "month": 12,
+        "day": 30
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "doven",
+                "shadows-of-cats",
+                "dance-on-the-mars",
+                "hi-beam",
+                "feel-my-conscious",
+                "dreamless-wanderer",
+                "the-night-is-on-fire",
+                "end-of-this-nightmare"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Design",
+            "name": "Why#"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://cametek.jp/dwep/"
+        },
+        {
+            "label": "Bandcamp",
+            "url": "https://cametek.bandcamp.com/album/dreamless-wanderer"
+        }
+    ]
+}
