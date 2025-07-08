@@ -1,0 +1,69 @@
+{
+    "title": "Blackmagik Blazing",
+    "title_romanized": "Blackmagik Blazing",
+    "content": "*Blackmagik Blazing* is a doujin album by [かめりあ](/camellia) (Camellia) released on 2019-08-12 (Comiket 96) by the circle [かめるかめりあ](#).",
+    "covers": [
+        {
+            "name": "CTCD-019",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2019,
+        "month": 8,
+        "day": 12
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "black-ray",
+                "brace-for-fricking-impact",
+                "circles-of-death",
+                "nasty-nasty-spell",
+                "arche",
+                "night-raid-with-a-dragon",
+                "luin-of-celtchar",
+                "killerbeast",
+                "blackmagik-blazing",
+                "bleed-blood",
+                "secret-boss",
+                "we-could-get-more-machinegun-psystyle",
+                "under-construxion",
+                "nightmare-city"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Illustration",
+            "name": "Temmie"
+        },
+        {
+            "role": "Graphic Design",
+            "name": "Shota Kajimura"
+        },
+        {
+            "role": "Sampled Voice",
+            "name": "BTMC (Tr.08), The8BitDrummer (Tr.12)"
+        },
+        {
+            "role": "Track Name",
+            "name": "BTMC (Tr.08), Arche (Tr.05)"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://cametek.jp/black/"
+        },
+        {
+            "label": "Bandcamp",
+            "url": "https://cametek.bandcamp.com/album/blackmagik-blazing"
+        }
+    ]
+}
