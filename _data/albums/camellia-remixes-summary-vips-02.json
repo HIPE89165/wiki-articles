@@ -1,0 +1,71 @@
+{
+    "title": "Camellia 'Guest Tracks' Summary & VIPs 02",
+    "title_romanized": "Camellia 'Guest Tracks' Summary & VIPs 02",
+    "content": "*Camellia 'Guest Tracks' Summary & VIPs 02* is a doujin compilation album by [かめりあ](/camellia) (Camellia) released on 2018-08-10 (Comiket 94) by the circle [かめるかめりあ](#). It is a compilation of Camellia remixes, of both his own songs and other artists.",
+    "covers": [
+        {
+            "name": "CTCD-017",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2018,
+        "month": 8,
+        "day": 10
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "gigadelic-remix",
+                "werewolf-howls",
+                "anomaly-remix",
+                "workaholic-remix-vip",
+                "fastest-crash-remix",
+                "walkie-torpedo-remix-vip",
+                "lets-jump-remix",
+                "fairyjoke-remix",
+                "delta-for-the-delta-remix",
+                "see-you-remix-vip",
+                "exit-this-earths-atomosphere-remix",
+                "senbonzakura-remix-uncut-ver",
+                "energy-drinko-fein-chan-remix",
+                "gigadelic-remix-long-ver",
+                "werewolf-howls-long-ver",
+                "jingle-metal-arrange"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ (Tr.03, 05, 07, 09, 11, 13), teranoid & MC Natsack (Tr.01, 14), ZUN (Tr.02, 08, 15), C-Show (Tr.04), MAD CHILD (Tr.06), Shandy Kubota (Tr.10), 黒うさP (Tr.12), DJ Noriken (Tr.16)"
+        },
+        {
+            "role": "Arrangement",
+            "name": "uno (Tr.08)"
+        },
+        {
+            "role": "Lyrics",
+            "name": "かめりあ (Tr.13), 黒うさP (Tr.12)"
+        },
+        {
+            "role": "Remix",
+            "name": "かめりあ (Tr.01-16)"
+        },
+        {
+            "role": "Vocals",
+            "name": "ななひら (Tr.13)"
+        },
+        {
+            "role": "Design",
+            "name": "Hotomasu Modoru"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://cametek.jp/summary02/"
+        }
+    ]
+}
