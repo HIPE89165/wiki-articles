@@ -1,0 +1,116 @@
+{
+    "title": "灰の羽搏",
+    "title_romanized": "Ashed Wings",
+    "content": "*灰の羽搏* is a major album by [かめりあ](/camellia) (Camellia) released on 2023-02-15 on the label [PONY CANYON](#).",
+    "covers": [
+        {
+            "name": "PCCA-06182",
+            "url": "#"
+        }
+        {
+            "name": "BRCA-00138",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2023,
+        "month": 02,
+        "day": 15
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "achromatic-city-lost-palette",
+                "ambergris",
+                "psycho-heroes-long-ver",
+                "ratiod-cringed-scratched",
+                "lost-technologie-long-ver",
+                "sswwiinnddlleerr",
+                "bayonex-long-ver",
+                "ashed-wings",
+                "denpa-never-die",
+                "screw-owo-screw-long-ver",
+                "hgs",
+                "orca-long-ver",
+                "drenched-in-air",
+                "gray-heaven",
+                "following-the-waving-wings-last-plaudits"
+            ]
+        },
+        {
+            "name": "Disc 2",
+            "tracks": [
+                "bassdrop-freaks-ashed-wings",
+                "midnight-amaretto-ashed-wings",
+                "flying-out-to-the-sky-ashed-wings",
+                "scorching-hot-beach-side-bunny-remix",
+                "darkness-remix-short-ver"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ (Disc1: Tr.01-15, Disc2: Tr.01-03), DJ Mass MAD Izm* (Disc2, Tr.04-05), Amuro VS. Killer(Disc2, Tr.04-05)"
+        },
+        {
+            "role": "Lyrics",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Vocals",
+            "name": "かめりあ (Disc1: Tr.01,08,15, Disc2: Tr.01-03), ななひら (Disc1: Tr.09), Ninomae Ina'nis (Disc1: Tr.13)"
+        },
+        {
+            "role": "Label Producer",
+            "name": "Ryu☆, kors k"
+        },
+        {
+            "role": "A&R Director",
+            "name": "Takumi Yoshinuma, Yuri Imaizumi"
+        },
+        {
+            "role": "Mastering",
+            "name": "DJ Noriken"
+        },
+        {
+            "role": "Jacket Illustration",
+            "name": "Akira Egawa"
+        },
+        {
+            "role": "SD Character Illustration",
+            "name": "かにょこ"
+        },
+        {
+            "role": "Design",
+            "name": "Shuhei Hosoi"
+        },
+        {
+            "role": "Sales Promotion",
+            "name": "Yukina Muramatsu"
+        },
+        {
+            "role": "Digital Sales Promotion",
+            "name": "Kunio Sekino, Mari Yamanaka"
+        },
+        {
+            "role": "Release Operation",
+            "name": "Masashi Yamada"
+        },
+        {
+            "role": "Executive Producer",
+            "name": "Naotaka Yamaguchi, Takahiro Sasaki"
+        },
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "http://camellia-4th.edp-edp.com"
+        },
+        {
+            "label": "Spotify",
+            "url": "https://open.spotify.com/album/5DN2d2oEftpU0i4knuKsX0"
+        }
+    ]
+}
