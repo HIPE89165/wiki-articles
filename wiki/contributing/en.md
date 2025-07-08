@@ -19,12 +19,13 @@ If you're reading this, you're likely interested in contributing to the Camellia
 - Any media uploaded, including videos and photos, must be one of the following: your own work; freely licensed; within the public domain; or under fair use.
 - All articles must follow the correct format:
 
-```
+```md
 ---
 layout: article
 title: Your Title Here
 date: ISO 8601 (like 2025-07-08T04:04:53.522Z)
 description: Brief summary of what this article is about.
+image: An optional link to a cover image. (may be relative)
 ---
 ```
 
