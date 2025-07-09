@@ -1,0 +1,64 @@
+{
+    "title": "LOP STEP RABBITS!",
+    "title_romanized": "LOP STEP RABBITS!",
+    "content": "*LOP STEP RABBITS!* is a doujin mini-album by [かめりあ](/camellia) (Camellia) feat. [ななひら](#) (Nanahira) released on 2014-12-30 (Comiket 87) by the circles [かめるかめりあ](#) & [Confetto](#). It is the fifth collaboration album between *Camellia* and *Nanahira*.",
+    "covers": [
+        {
+            "name": "KCCD-002",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2019,
+        "month": 8,
+        "day": 12
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "usakick",
+                "cafe-mocha-sugar",
+                "kimi-no-koe-wa",
+                "unya-unya-pappa",
+                "soroban-de-big-bang"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition & Arrangement",
+            "name": "かめりあ (Tr.01-05), つこ (Tr.03), PHQUASE (Tr.04)"
+        },
+        {
+            "role": "Lyrics",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Guitar & Bass",
+            "name": "つこ (Tr.13)"
+        },
+        {
+            "role": "Vocals",
+            "name": "ななひら (Tr.01-05), ココ (Tr.05)"
+        },
+        {
+            "role": "Illustration",
+            "name": "やむ茶"
+        },
+        {
+            "role": "Design",
+            "name": "後方一気"
+        },
+        {
+            "role": "Mastering",
+            "name": "吉田省吾"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://kc-rabbits.tumblr.com"
+        }
+    ]
+}
