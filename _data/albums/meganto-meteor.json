@@ -1,0 +1,104 @@
+{
+    "title": "MEGANTO METEOR",
+    "title_romanized": "MEGANTO METEOR",
+    "content": "*MEGANTO METEOR* is a major album by [かめりあ](/camellia) (Camellia) released on 2016-07-06 on the label [EXITTUNES Dance Production](#). It is the first major album by *Camellia*.",
+    "covers": [
+        {
+            "name": "QWCE-90001",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2016,
+        "month": 7,
+        "day": 6
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "the-launch-of-the-meganto-meteor",
+                "witness-of-eternity",
+                "bass-weapon-lazerflame",
+                "glitch-nerds",
+                "singularity-the-day-when-the-ai-becomes-more-human-than-human",
+                "neuro-rock-out",
+                "nightmare-of-hornets-squad",
+                "devils-tattling",
+                "meganto-meteor",
+                "edm-jumpers",
+                "glasya-labolas",
+                "firethrower",
+                "kodama",
+                "free-to-free",
+                "enantiomorphs", 
+                "berserkerz-warfare",
+                "we-love-hardcore"
+            ]
+        },
+        {
+            "name": "Disc 2",
+            "tracks": [
+                "we-love-hardcore-dj-genki",
+                "we-love-hardcore-blacky",
+                "we-love-hardcore-lapix"
+            ]
+        }
+    ],
+   "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ (Disc1: Tr.01-017, Disc2: Tr.01-03), PHQUASE (Disc1: Tr.11)"
+        },
+        {
+            "role": "Lyrics",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Vocals",
+            "name": "ななひら (Disc1: Tr.10,17, Disc2: Tr.01-03 ), kradness (Disc1: Tr.14)"
+        },
+        {
+            "role": "Remix",
+            "name": "DJ Genki (Disc2: Tr.01), BlackY (Disc2: Tr.02), lapix (Disc2: Tr.03)"
+        },
+        {
+            "role": "A&R Director",
+            "name": "Yuri Imaizumi"
+        },
+        {
+            "role": "Mastering",
+            "name": "DJ Noriken"
+        },
+        {
+            "role": "Illustration",
+            "name": "雅"
+        },
+        {
+            "role": "Design",
+            "name": "Tony Kawai"
+        },
+        {
+            "role": "Track Assistant",
+            "name": "Mitsuyasu Yanagita (Disc1: Track.14)"
+        },
+        {
+            "role": "Promotion",
+            "name": "Kenji Odawara"
+        },
+        {
+            "role": "Sales Promotion",
+            "name": "Hiroyuki Tanahashi, Tetsuya Kawasaki"
+        },
+        {
+            "role": "Executive Producer",
+            "name": "Shusaku Yoshida"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "http://camellia.extsm.com"
+        }
+    ]
+}
