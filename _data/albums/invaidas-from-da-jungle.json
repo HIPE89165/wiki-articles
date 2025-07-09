@@ -1,0 +1,60 @@
+{
+    "title": "INVAIDAS FROM DA JUNGLE",
+    "title_romanized": "INVAIDAS FROM DA JUNGLE",
+    "content": "*INVAIDAS FROM DA JUNGLE* is a doujin album by [かめりあ](/camellia) (Camellia) released on 2017-08-11 (Comiket 92) by the circle [かめるかめりあ](#).",
+    "covers": [
+        {
+            "name": "CTCD-016",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2017,
+        "month": 8,
+        "day": 11
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "intrudction-entrans-of-da-jungle",
+                "one-bite",
+                "poison-mushroom",
+                "jdm-jungle-dance-music",
+                "ethnik-khemikal-teknologi",
+                "primitive-pump",
+                "attack-from-mandrake",
+                "do-u-know-donkey-kong",
+                "love-yiff",
+                "furry-cannon",
+                "illegal-trap",
+                "the-king-of-lions",
+                "powa-of-da-wildanes"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Illustration",
+            "name": "うごうゴウ"
+        },
+        {
+            "role": "Design",
+            "name": "TOHRU MiTSUHASHi"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://cametek.jp/jungle/"
+        },
+        {
+            "label": "Bandcamp",
+            "url": "https://cametek.bandcamp.com/album/invaidas-from-da-jungle"
+        }
+    ]
+}
