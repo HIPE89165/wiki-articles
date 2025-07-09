@@ -1,0 +1,80 @@
+{
+    "title": "ふぉーす！",
+    "title_romanized": "4ORCE!",
+    "content": "*ふぉーす！* is a doujin album by [かめりあ](/camellia) (Camellia) feat. [ななひら](#) (Nanahira) released on 2017-12-29 (Comiket 93) by the circles [かめるかめりあ](#) & [Confetto](#). It is the fourth collaboration album between *Camellia* and *Nanahira*.",
+    "covers": [
+        {
+            "name": "KCCD-006",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2017,
+        "month": 12,
+        "day": 29
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "origamical-sweet-love",
+                "heeartbeeat-oveerheeat",
+                "train-labyrinth-escape-from-super-shinjuku-sta",
+                "ta-ti-tu-teatime",
+                "can-i-friend-you-on-bassbook-lol",
+                "you-make-my-life-1up-long-ver",
+                "senpai-notice-me",
+                "kansoku-eisei",
+                "mononon-the-ito-internet-of-things-goddess",
+                "pshhht-the-phoenix-rises-from-the-flames-yakiniku-of-rebirth",
+                "catch-game-battle-of-humankind-vs-ball-throwing-robot-tamachan",
+                "4orce",
+                "present",
+                "origamical-sweet-love-long-ver",
+                "pshhht-the-phoenix-rises-from-the-flames-yakiniku-of-rebirth-true-ver",
+                "tsukidouru-remix",
+                "looking-for-a-new-adventure-remix"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ (Tr.01-17), つこ (Tr.13)"
+        },
+        {
+            "role": "Lyrics",
+            "name": "かめりあ (Tr.01-17), つこ (Tr.13)"
+        },
+        {
+            "role": "Guitar & Bass",
+            "name": "つこ (Tr.13)"
+        },
+        {
+            "role": "Vocals",
+            "name": "ななひら"
+        },
+        {
+            "role": "Illustration",
+            "name": "まあこ"
+        },
+        {
+            "role": "Design",
+            "name": "ヒトマスモドル "
+        },
+        {
+            "role": "Mastering",
+            "name": "Studio Aintops"
+        },
+        {
+            "role": "Remix",
+            "name": "Lite Show Magic (Tr.16), The 4th (Tr.17)"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://confetto.chu.jp/4orce/"
+        }
+    ]
+}
