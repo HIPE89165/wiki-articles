@@ -1,0 +1,36 @@
+{
+    "title": "flow arrow",
+    "title_romanized": "flow arrow",
+    "content": "*flow arrow* is a doujin promo by [かめりあ](/camellia) (Camellia) released on 2013-04-29 (M3-31) by the circle [かめるかめりあ](#).",
+    "covers": [
+        {
+            "name": "CTCD-005",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2013,
+        "month": 4,
+        "day": 29
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "presound",
+                "flow-arrow",
+                "flow-arrow-inst"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Words",
+            "name": "かめりあ, れいたん"
+        }
+    ]
+}
