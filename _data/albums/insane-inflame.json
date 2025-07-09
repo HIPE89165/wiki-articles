@@ -1,0 +1,55 @@
+{
+    "title": "INSANE INFLAME",
+    "title_romanized": "INSANE INFLAME",
+    "content": "*INSANE INFLAME* is a doujin album by [かめりあ](/camellia) (Camellia) released on 2016-04-24 (M3-37) by the circle [かめるかめりあ](#). It is the seventh intrumental album by *Camellia*.",
+    "covers": [
+        {
+            "name": "CTCD-013",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2016,
+        "month": 4,
+        "day": 24
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "introduction-insane-inflame",
+                "neuro-cloud-9",
+                "darkness-overload",
+                "break-the-silence",
+                "insane-inflame",
+                "do-the-big-kick",
+                "blast-your-headz-with-the-railgun-vip",
+                "the-immortal-scream"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Illustration",
+            "name": "セシル◇タイト"
+        },
+        {
+            "role": "Graphic Design",
+            "name": "Shota Kajimura"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://cametek.jp/inin/"
+        },
+        {
+            "label": "Bandcamp",
+            "url": "https://cametek.bandcamp.com/album/insane-inflame"
+        }
+    ]
+}
