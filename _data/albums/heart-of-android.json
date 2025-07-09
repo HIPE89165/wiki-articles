@@ -1,0 +1,62 @@
+{
+    "title": "heart of android",
+    "title_romanized": "heart of android",
+    "content": "*heart of android* is a doujin album by [かめりあ](/camellia) (Camellia) released on 2018-12-30 (Comiket 95) by the circle [かめるかめりあ](#).",
+    "covers": [
+        {
+            "name": "CTCD-018",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2018,
+        "month": 12,
+        "day": 30
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "alone-intelligence",
+                "arcology-on-permafrost",
+                "ns",
+                "stealth-dash",
+                "fm-synthesis-experiment", 
+                "together-forever-my-lovely-lovely-video-game-cartridges",
+                "satellite",
+                "this-future-we-didnt-expect",
+                "upload-your-mind-download-my-soul",
+                "new-era",
+                "tojita-sekai",
+                "beyond-the-geostationary-orbit-level",
+                "heart-of-android-even-if-its-only-by-mechanism",
+                "embracing-intelligences",
+                "quaoar"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Design",
+            "name": "TOHRU MiTSUHASHi"
+        },
+        { 
+            "role": "Illustration",
+            "name": "電鬼"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://cametek.jp/heartofandroid/"
+        },
+        {
+            "label": "Bandcamp",
+            "url": "https://cametek.bandcamp.com/album/heart-of-android"
+        }
+    ]
+}
