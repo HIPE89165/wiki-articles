@@ -1,0 +1,111 @@
+{
+    "title": "GALAXY BURST",
+    "title_romanized": "GALAXY BURST",
+    "content": "*GALAXY BURST* is a major album by [かめりあ](/camellia) (Camellia) released on 2018-03-21 on the label [EXITTUNES Dance Production](#). It is the second major album by *Camellia*.",
+    "covers": [
+        {
+            "name": "CTCD-010",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2014,
+        "month": 12,
+        "day": 30
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "introduction-akashic-records-data-collapse",
+                "dyscontrolled-galaxy-long-ver",
+                "syzygia",
+                "overcomplxification-long-ver",
+                "sugary",
+                "albus-long-ver",
+                "epimerization",
+                "empire-of-flame-long-ver",
+                "you-are-fking-noob",
+                "bassdrop-freaks-redrop-ver",
+                "quicksand",
+                "chirality-long-ver",
+                "rawstyle-bomb",
+                "blastix-riotz-long-ver",
+                "ghost-nova",
+                "bangin-burst-long-ver",
+                "galaxy-burst",
+                "galaxy-burst-remix"
+            ]
+        },
+        {
+            "name": "Disc 2",
+            "tracks": [
+                "rawstyle-bomb-blacky",
+                "rawstyle-bomb-yooh",
+                "rawstyle-bomb-yco",
+                "solvicious",
+                "hypnotize"
+            ]
+        }
+    ],
+   "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ (Disc1: Tr.01-018, Disc2: Tr.01-05), lapix (Disc2: Tr.04-05)"
+        },
+        {
+            "role": "Lyrics",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Vocals",
+            "name": "ななひら (Disc1: Tr.10,13, Disc2: Tr.01-03 ), kradness (Disc1: Tr.05)"
+        },
+        {
+            "role": "Remix",
+            "name": "lapix (Disc1: Tr.18), BlackY (Disc2: Tr.01), Yooh (Disc2: Tr.02), Y&Co. (Disc2: Tr.03)"
+        },
+        {
+            "role": "Label Producer",
+            "name": "Ryu☆, kors k"
+        },
+        {
+            "role": "A&R Director",
+            "name": "Yuri Imaizumi"
+        },
+        {
+            "role": "Mastering",
+            "name": "DJ Noriken"
+        },
+        {
+            "role": "Jacket Illustration",
+            "name": "雅"
+        },
+        {
+            "role": "Design",
+            "name": "Tony Kawai"
+        },
+        {
+            "role": "Track Assistant",
+            "name": "Mitsuyasu Yanagita (Disc1: Track.05)"
+        },
+        {
+            "role": "Promotion",
+            "name": "Kenji Odawara"
+        },
+        {
+            "role": "Sales Promotion",
+            "name": "Keisuke 'Kenny' Terada, Emi Taniguchi, Tsukasa Kobayashi, Junji Saito"
+        },
+        {
+            "role": "Executive Producer",
+            "name": "Yoko Kogawa"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "http://camellialapix.extsm.com"
+        }
+    ]
+}
