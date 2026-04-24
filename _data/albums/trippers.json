@@ -1,0 +1,45 @@
+{
+    "title": "TRIPPERS",
+    "title_romanized": "TRIPPERS",
+    "content": "*TRIPPERS* is a doujin album by [かめりあ](/camellia) (Camellia) released on 2011-05-01 (M3-27) by the circle [かめるかめりあ](#). It is the second Vocaloid album by *Camellia*. On 2019-12-31 the CD was re-released as part of the *Camellia Archives* series of re-releases.",
+    "covers": [
+        {
+            "name": "CTCD-002",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2011,
+        "month": 5,
+        "day": 1
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "shouting-wheels",
+                "cat-killed-by-overdosing-music",
+                "mizu-seidou-ame",
+                "monochrome-ride",
+                "shiawase-no-aoi-kumo",
+                "telephone-teleport",
+                "8-bit-wo-arukeba",
+                "route-of-quanta",
+                "logout-sane-dream",
+                "unconsciousness-world"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://camtek.seesaa.net/article/192334171.html"
+        }
+    ]
+}
