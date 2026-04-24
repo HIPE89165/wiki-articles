@@ -1,0 +1,57 @@
+{
+    "title": "sudden shower",
+    "title_romanized": "sudden shower",
+    "content": "*sudden shower* is a doujin album by [かめりあ](/camellia) (Camellia) released on 2014-08-17 (Comiket 86) by the circle [かめるかめりあ](#). It is the third intrumental album by Camellia. On 2019-12-31 the CD was re-released as part of the Camellia Archives series of re-releases.",
+    "covers": [
+        {
+            "name": "CTCD-009",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2014,
+        "month": 8,
+        "day": 17
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "this-is-rock-n-roll-maybe",
+                "i-think-its-kind-of-like-the-some-squad",
+                "blow-with-the-glare",
+                "memoryleak",
+                "sampling-revolver",
+                "typhoon-8",
+                "sudden-shower",
+                "treaty-of-peace-between-glitchhop-and-moombahcore",
+                "turning-up",
+                "no-kidding",
+                "dark-thunder",
+                "farewell-to-today",
+                "danger-drug",
+                "blank"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Design",
+            "name": "Why#"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://cametek.jp/suddenshower/"
+        },
+        {
+            "label": "Bandcamp",
+            "url": "https://cametek.bandcamp.com/album/sudden-shower"
+        }
+    ]
+}
