@@ -1,0 +1,108 @@
+{
+    "title": "Xroniàl Xéro",
+    "title_romanized": "Xroniàl Xéro",
+    "content": "*Xroniàl Xéro* is a major album by [かめりあ](/camellia) (Camellia) released on 2020-03-18 on the label [PONY CANYON](#). It is the third major album by *Camellia*.",
+    "covers": [
+        {
+            "name": "PCCA-04883",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2020,
+        "month": 3,
+        "day": 18
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "introduction-xursed-divinitiy",
+                "xeroa-long-ver",
+                "el-dorado",
+                "lowermost-revolt-long-ver",
+                "abyss-of-frobenioid",
+                "rip-it-off-now-rip-it-off",
+                "proluvies-long-ver",
+                "zirnitra",
+                "diastrophism-long-ver",
+                "xronial-xero",
+                "madd-bleepp",
+                "where-bugs-live-long-ver",
+                "gunkyouzouteki-soseiriron",
+                "completeness-under-incompleteness-long-ver",
+                "finorza",
+                "banger-af-broooo",
+                "xronier-long-ver"
+            ]
+        },
+        {
+            "name": "Disc 2",
+            "tracks": [
+                "xronial-xero-blacky",
+                "xronial-xero-laur",
+                "xronial-xero-cosmobousoup",
+            ]
+        }
+    ],
+   "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ (Disc1: Tr.01-017, Disc2: Tr.01-03), 上ノ瀬つかさ (Disc1: Tr.13)"
+        },
+        {
+            "role": "Lyrics",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Vocals",
+            "name": "歌劇派学生 (Disc1: Tr.04), kradness (Disc1: Tr.06,11), Nana Takahashi (Disc1: Tr.12), ななひら (Disc1: Tr.15)"
+        },
+        {
+            "role": "Remix",
+            "name": "BlackY (Disc2: Tr.01), Laur (Disc2: Tr.02), cosMo@暴走P (Disc2: Tr.03)"
+        },
+        {
+            "role": "Label Producer",
+            "name": "Ryu☆, kors k"
+        },
+        {
+            "role": "A&R Director",
+            "name": "Yuri Imaizumi"
+        },
+        {
+            "role": "Mastering",
+            "name": "DJ Noriken"
+        },
+        {
+            "role": "Illustration",
+            "name": "JNTHED"
+        },
+        {
+            "role": "Art Direction & Design",
+            "name": "Tony Kawai"
+        },
+        {
+            "role": "Promotion",
+            "name": "Takaya Izumi, Eri Amano"
+        },
+        {
+            "role": "Sales Promotion",
+            "name": "Hiroyuki Tanahashi"
+        },
+        {
+            "role": "General Producer",
+            "name": "Sadakazu Kikuchi"
+        },
+        {
+            "role": "Executive Producer",
+            "name": "Yoko Kogawa"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "http://camellia.edp-edp.com"
+        }
+    ]
+}
