@@ -1,0 +1,39 @@
+{
+    "title": "TF40K(Thanks Twitter Followers 40K) E.P.",
+    "title_romanized": "TF40K(Thanks Twitter Followers 40K) E.P.",
+    "content": "*TF40K(Thanks Twitter Followers 40K) E.P.* is an EP by [かめりあ](/camellia) (Camellia) released on 2017-03-01. It is a free download EP to commemorate Camellia reaching 40,000 Twitter followers.",
+    "covers": [
+        {
+            "name": "TF40KEP",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2017,
+        "month": 3,
+        "day": 1
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "backbeat-maniac",
+                "what-the-cat",
+                "clouds-in-the-blue",
+                "put-l-da"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        }
+    ],
+    "links": [
+        {
+            "label": "Bandcamp",
+            "url": "https://cametek.bandcamp.com/album/tf40k-thanks-twitter-followers-40k-e-p"
+        }
+    ]
+}
