@@ -1,0 +1,65 @@
+{
+    "title": "Mira",
+    "title_romanized": "Mira",
+    "content": "*Mira* is a major album by [Quarks](#) ([kradness](#) x [Camellia](/camellia)) released on 2018-06-06 by the label [EXIT TUNES](#).",
+    "covers": [
+        {
+            "name": "SQCE-00043",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2018,
+        "month": 6,
+        "day": 6
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "tandeki-mirage-ism",
+                "-hyururirara",
+                "tandeki-mirage-ism-inst",
+                "hyuririrara-inst"
+            ]
+        },
+        {
+            "name": "Disc 2",
+            "tracks": [
+                "introduction-mira",
+                "drawing-stars",
+                "free-to-free",  
+                "crystal-glacier",
+                "this-view-we-live", 
+                "crusaders-in-virtuality",
+                "novaground",
+                "infoholical",
+                "fire-up",
+                "dualive",  
+                "dream-corridors-edit",
+                "falling-in-the-future",
+                "hold-you",
+                "you-and-me",
+                "critical-line-remix"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "Camellia (Disc1 Tr.1-4, Disc2 Tr.1-14), SOUND HOLIC (Disc2 Tr.4), Ryu☆ (Disc2 Tr.15)"
+        },
+        {
+            "role": "Vocals",
+            "name": "kradness"
+        },
+        {
+            "role": "Lyrics",
+            "name": "Camellia (Disc2 Tr.1-3, 5-14), Nana Takahashi (Disc2 Tr.4), kradness (Tr.8), Kanaki (Disc2 Tr.15)"
+        },
+        {
+            "role": "Remix",
+            "name": "Quarks (Tr.15)"
+        }
+    ]
+}
