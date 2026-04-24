@@ -1,0 +1,59 @@
+{
+    "title": "Michno-sequence",
+    "title_romanized": "Michno-sequence",
+    "content": "*Michno-sequence* is a doujin album by [かめりあ](/camellia) (Camellia) released on 2012-07-08 (THE VOC@LOiD M@STER 21) by the circle [かめるかめりあ](#). It is the fourth Vocaloid album by Camellia. On 2019-12-31 the CD was re-released as part of the Camellia Archives series of re-releases.",
+    "covers": [
+        {
+            "name": "CTCD-004",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2012,
+        "month": 7,
+        "day": 8
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "importing",
+                "infinite-sleep",
+                "controlled-dive",
+                "welcome-to-wobbling-field",
+                "kimi-ga-shinu-no-wo-nagameteiru-yo",
+                "sorairo",
+                "haguruma-philosophy",
+                "string-of-the-moon",
+                "backslash",
+                "sayonara-swing-by",
+                "axisymmetricness-world",
+                "exporting"
+            ]
+        }
+    ],
+   "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Lyrics",
+            "name": "かめりあ, れいたん (Tr.04), 佐藤 (Tr.07), タカナシトリコ (Tr.08)"
+        },
+        {
+            "role": "Guitar",
+            "name": "ELC (Tr.07)"
+        },
+        {
+            "role": "Title",
+            "name": "DJ megsis (Tr.04)"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://camtek.seesaa.net/article/278269113.html"
+        }
+    ]
+}
