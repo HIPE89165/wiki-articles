@@ -1,0 +1,57 @@
+{
+    "title": "mikUbiquity",
+    "title_romanized": "mikUbiquity",
+    "content": "*mikUbiquity* is a doujin album by [かめりあ](/camellia) (Camellia) released on 2011-10-30 (M3-28) by the circle [かめるかめりあ](#). It is the third Vocaloid album by *Camellia*. On 2019-12-31 the CD was re-released as part of the Camellia Archives series of re-releases.",
+    "covers": [
+        {
+            "name": "CTCD-003",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2011,
+        "month": 10,
+        "day": 30
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "mikubiquity-prelude",
+                "shingetsu-ga-shiroku-maruku-kagayaiteiru-yoru-ni/",
+                "sinlover",
+                "tentoumushi-no-mita-yume",
+                "mahoutsukai-no-enogu",
+                "convolution",
+                "gureiro",
+                "kimi-ni-koishita-cpu",
+                "transitionless-world",
+                "mikubiquity-postlude"
+            ]
+        }
+    ],
+   "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Lyrics",
+            "name": "かめりあ, タカナシトリコ (Tr.05, 07)"
+        },
+        {
+            "role": "Guitar",
+            "name": "のらねこ（尸P) (Tr.06)"
+        },
+        {
+            "role": "Illustrations",
+            "name": "芋井もい"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://camtek.seesaa.net/article/228630660.html"
+        }
+    ]
+}
