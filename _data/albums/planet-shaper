@@ -1,0 +1,57 @@
+{
+    "title": "PLANET//SHAPER",
+    "title_romanized": "PLANET//SHAPER",
+    "content": "*PLANET//SHAPER* is a doujin album by [かめりあ](/camellia) (Camellia) released on 2015-08-16 (Comiket 88) by the circle [かめるかめりあ](#). It is the fifth intrumental album by Camellia.",
+    "covers": [
+        {
+            "name": "CTCD-011",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2015,
+        "month": 8,
+        "day": 16
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "introduction-planet-shaper",
+                "black-jack",
+                "paleolithic-period-wobble-bass",
+                "distorted-space",
+                "bass-bomb",
+                "delta-for-the-delta",
+                "why-do-you-hate-me",
+                "ill-intelligence",
+                "orbital-strike",
+                "flying-in-the-flow-of-deep-sea",
+                "exit-this-earths-atomosphere",
+                "planet-shaper",
+                "racemization",
+                "r-u-still-xxxx"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ"
+        },
+        {
+            "role": "Design & Image Works",
+            "name": "HARDLOVE"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://cametek.jp/planetshaper/"
+        },
+        {
+            "label": "Bandcamp",
+            "url": "https://cametek.bandcamp.com/album/planet-shaper"
+        }
+    ]
+}
