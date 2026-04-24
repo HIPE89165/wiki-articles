@@ -1,0 +1,72 @@
+{
+    "title": "Reality Distortion",
+    "title_romanized": "Reality Distortion",
+    "content": "*Reality Distortion* is a doujin split album by [かめりあ](/camellia) vs [Akira Complex](#) released on 2016-12-31 (Comiket 91) by the circle [S2TB Recording](#).",
+    "covers": [
+        {
+            "name": "S2TB-0019",
+            "url": "#"
+        }
+    ],
+    "release": {
+        "year": 2016,
+        "month": 12,
+        "day": 31
+    },
+    "discs": [
+        {
+            "name": "Disc 1",
+            "tracks": [
+                "world-collapse",
+                "sulfide",
+                "huntress-spirit",
+                "in-black-and-white",
+                "reality-distortion",
+                "railgun-roulette",
+                "sigma-for-the-delta",
+                "rift-exe-remix",
+                "reality-distortion-lapix",
+                "reality-distiortion-mitomoro",
+                "reality-distortion-hommarju",
+                "railgun-roulette-vip",
+                "night-is-on-fire-vip"
+            ]
+        }
+    ],
+    "credits": [
+        {
+            "role": "Composition",
+            "name": "かめりあ (Tr.2, 4-7, 9-13), Akira Complex (Tr.1, 3, 5-6, 8-12)"
+        },
+        {
+            "role": "Mastering",
+            "name": "Akira Complex"
+        },
+        {
+            "role": "Remix",
+            "name": "lapix (Tr.9), Mitomoro (Tr.10), Hommarju (Tr.11)"
+        },
+        {
+            "role": "Design",
+            "name": "ANTIREAL"
+        },
+        {
+            "role": "Translation",
+            "name": "HEXA4038"
+        },
+        {
+            "role": "Additional Vocal Recording",
+            "name": "Melacholiaah"
+        }
+    ],
+    "links": [
+        {
+            "label": "Website",
+            "url": "https://korsk.jp/s2tb-0019/"
+        },
+        {
+            "label": "Bandcamp",
+            "url": "https://attackthemusic.bandcamp.com/album/reality-distortion"
+        }
+    ]
+}
